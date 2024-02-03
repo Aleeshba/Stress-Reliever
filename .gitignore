@@ -1,0 +1,4 @@
+include/
+lib/
+Main.exe
+*.dll
